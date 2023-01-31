@@ -33,7 +33,7 @@ html {
   font-size: 10px;   
   
   /* Set neon color */
-  --neon-text-color: rgb(221, 255, 0);
+  --neon-text-color: rgb(255, 0, 149);
   --neon-border-color: #700efa;
 
   --ff-poppins: "Barlow", sans-serif;
@@ -146,7 +146,7 @@ body {
   line-height: 1.80857;
   font-weight: normal;
   overflow-x: hidden;
-  background-image: url("../images/game/assets/_jackpot-neon-signs-style/52_generated.jpg");
+  background-image: url("/images/RVO_bg_desktop_v1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   transition: all 200ms linear;
