@@ -30,10 +30,10 @@ html {
 
 :root {
   /* Base font size */
-  font-size: 10px;   
+  font-size: 14px;   
   
   /* Set neon color */
-  --neon-text-color: rgb(255, 0, 149);
+  --neon-text-color: #ff0095;
   --neon-border-color: #700efa;
 
   --ff-poppins: "Barlow", sans-serif;
@@ -1183,7 +1183,7 @@ button {
   float: left;
   position: relative;
   display: contents;
-  z-index: 1;
+  z-index: 0;
 }
 .contact_section_2 {
   width: 100%;
@@ -1195,7 +1195,7 @@ button {
   display: inline-block;
   margin-top: 80px;
   position: relative;
-  z-index: 2;
+  z-index: 0;
 }
 .map_main {
   width: 100%;
